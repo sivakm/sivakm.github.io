@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            
+title:            Hello!
 locale:           en_US
-url:              
+url:              web.iiit.ac.in/~sivakarthik.m
 
 
 # Jekyll configuration
