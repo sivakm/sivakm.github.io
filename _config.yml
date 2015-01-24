@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Hello
+title:            Hello! Welcome to Siva's website
 locale:           en_US
 url:              
 
@@ -26,8 +26,8 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Siva Karthik Mustikovela
+  avatar: 
   bio: "Describe your self."
   email: 
   disqus-shortname: 
