@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Siva Karthik Mustikovela
   avatar: 
-  bio: "I see to learn. And hence I learn to see better. Computer Vision and Robotics enthusiast. Love to cook food, of course eat a lot. Travel gives my soul loads of bliss!   You"
+  bio: "I see to learn. And hence I learn to see better. Computer Vision and Robotics enthusiast. Love to cook food, of course eat a lot. Travel gives my soul loads of bliss! You can reach me at sivakarthik.m@research.iiit.ac.in"
   email: sivakarthik.m@research.iiit.ac.in, karthik.kovalam@gmail.com
   disqus-shortname: Siva
   twitter: #username
@@ -54,6 +54,7 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
+  phone: +91-9032991734
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
