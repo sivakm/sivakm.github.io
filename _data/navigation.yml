@@ -3,11 +3,17 @@
 - title: About Me
   url: /
 
-- title: 
+- title: Posts
   url: /posts/
+
+- title: Research
+  url: /Research
+
+- title: Publications
+  url: /Publications
 
 - title: Theme Setup
   url: /theme-setup/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Contact
+  url: /Contact
