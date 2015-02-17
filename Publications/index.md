@@ -19,3 +19,6 @@ excerpt: "A List of Publications"
 *| **Guess from Far, Recognize when Near: Searching Floor for Small Objects.**   | 
  | *Siva Karthik M*, Sudhanshu Mittal and K.Madhava Krishna.  |
  | Indian Conference on Vision, Graphics and Image Processing, 2014, Bangalore.| 
+
+
+ [^*] Equal Contribution.
