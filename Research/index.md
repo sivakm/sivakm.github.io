@@ -42,4 +42,9 @@ I got to visit them in 2014 for a month and also represented them at InnoRobo-20
 
 <hr>
 
-####
+#### Scalable long range AUV position estimation and RF communication platform
+<img src="/images/nus.jpg" width="240" height="80" align="right">
+<font size="2">
+Integrated an RF communication framework into AUV software platform to broadcast AUV
+position to deployment boats and ground stations. Estimated the position of AUVs in case of communication failure using Kalman Filter and already existing data like current flow, speed etc. Visualized all of this on Maps API on tablet devices.
+</font>
