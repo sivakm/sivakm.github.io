@@ -11,6 +11,11 @@ excerpt: "A List of Publications"
  | International Conference on Robotics and Automation(ICRA), 2014, Hong Kong.| 
 
 
+*| **Small Object Discovery and Recognition using Actively Guided Robots.**   | 
+ |  Sudhanshu Mittal*, *Siva Karthik M**, Suryansh Kumar and K.Madhava Krishna.   |
+ | International Conference on Pattern Recongnition, 2014, Sweden.| 
 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
+*| **Guess from Far, Recognize when Near: Searching the Floor for Small Objects.**   | 
+ | *Siva Karthik M*, Sudhanshu Mittal and K.Madhava Krishna.  |
+ | Indian Conference on Vision, Graphics and Image Processing, 2014, Bangalore.| 
