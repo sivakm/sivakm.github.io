@@ -18,6 +18,6 @@ I got to visit them in 2014 for a month and also represented them at InnoRobo-20
 <img src="/images/small_object.png" width="246" height="82" align="right">
  <font size="2">
  This project involved discovery and extraction of small objects(height 3-8cm) lying scatterd on indoor floors to label the navigable area. An estimate of the ground plane homography and the cumulative residual(homography error) of the superpixels in an image was evaluated. This in turn is formulated into a Markov Random Field to label the image pixels as objects and floor. This work
- was published at the ICRA '14, Hong Kong. [Paper Link](docs/Suryansh_etal_ICRA_14.pdf)
+ was published at the ICRA '14, Hong Kong. <em>[Paper Link](/docs/Suryansh_etal_ICRA_14.pdf)</em>
  <font>
 
