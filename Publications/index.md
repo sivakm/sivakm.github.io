@@ -6,13 +6,13 @@ excerpt: "A List of Publications"
 
 
 
-*| **Markov Random Field based Small Obstacle Discovery over Images**   | 
+*| **Markov Random Field based Small Obstacle Discovery over Images.**   | 
  | Suryansh Kumar, *Siva Karthik M*, K Madhava Krishna.   |
  | International Conference on Robotics and Automation(ICRA), 2014, Hong Kong.| 
 
 
 *| **Small Object Discovery and Recognition using Actively Guided Robots.**   | 
- |  Sudhanshu Mittal*, *Siva Karthik M**, Suryansh Kumar and K.Madhava Krishna.   |
+ |  Sudhanshu Mittal*, *Siva Karthik M* *, Suryansh Kumar and K.Madhava Krishna.   |
  | International Conference on Pattern Recongnition, 2014, Sweden.| 
 
 
