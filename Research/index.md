@@ -12,7 +12,7 @@ I am developing a Deep Belief Network based viewpoint and illumination invariant
 I got to visit them in 2014 for a month and also represented them at InnoRobo-2014, Lyon and ICRA-2014, HongKong. I have developed a great interest in Deep Neural Nets since I have been working on this project.
 </font>
 
-
+<hr>
 
 #### Markov Random Field based small object discovery over images
 <img src="/images/small_object.png" width="246" height="82" align="right">
