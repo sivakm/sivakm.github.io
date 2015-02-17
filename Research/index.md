@@ -6,7 +6,7 @@ excerpt: "Research and Project details."
 
 
 #### Face Recognition using Deep Neural Nets
-<img src="/images/fp.png" width="180" height="60" align="right">
+<img src="/images/fp.png" width="171" height="57" align="right">
 <font size="2">
 I am developing a Deep Belief Network based viewpoint and illumination invariant Face Recognition architecture (along with GUI) for Frueh and Partner-Personal Robotics. They are located in Zurich and a wonderful team to work with. 
 I got to visit them in 2014 for a month and also represented them at InnoRobo-2014, Lyon and ICRA-2014, HongKong. I have developed a great interest in Deep Neural Nets since I have been working on this project.
@@ -43,7 +43,7 @@ I got to visit them in 2014 for a month and also represented them at InnoRobo-20
 <hr>
 
 #### Scalable long range AUV position estimation and RF communication platform
-<img src="/images/nus.jpg" width="180" height="60" align="right">
+<img src="/images/nus.jpg" width="171" height="57" align="right">
 <font size="2">
 Integrated an RF communication framework into AUV software platform to broadcast AUV
 position to deployment boats and ground stations. Estimated the position of AUVs in case of communication failure using Kalman Filter and already existing data like current flow, speed etc. Visualized all of this on Maps API on tablet devices.
