@@ -21,4 +21,4 @@ excerpt: "A List of Publications"
  | Indian Conference on Vision, Graphics and Image Processing, 2014, Bangalore.| 
 
 
- [^*] Equal Contribution.
+ <sup>*</sup> Equal Contribution.
