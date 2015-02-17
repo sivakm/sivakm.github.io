@@ -1,16 +1,24 @@
----
-layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
----
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
 
-<h3>Welcome</h3>
+<body class="home">
+
+{% include _browser-upgrade.html %}
+{% include _navigation.html %}
+
+
+<div id="main" role="main"> 
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <div id="index">
+  <h3>Welcome</h3>
   <font size="3">
   <p>
      I am a 2<sup>nd</sup> year Master's student working as a Research Assistant supervised by Prof. K Madhava Krishna at <a href="http://robotics.iiit.ac.in/"> Robotics Research Centre</a>, International Institute of Information Technology-Hyderabad, India.
@@ -41,3 +49,30 @@ image:
 </table>
 
 <hr/>
+
+
+
+    <!--{% for post in site.posts limit:5 %}    
+    <article>
+      {% if post.link %}
+        <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
+      {% else %}`
+        <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}-->
+  
+  </div><!-- /#index -->
+</div><!-- /#main -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+  
+</body>
+</html>
