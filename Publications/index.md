@@ -20,7 +20,7 @@ excerpt: "A List of Publications"
 *| [**Guess from Far, Recognize when Near: Searching Floor for Small Objects.**](/docs/Siva_etal_ICVGIP_14.pdf)   | 
  | *Siva Karthik M*, Sudhanshu Mittal and K.Madhava Krishna.  |
  | Indian Conference on Vision, Graphics and Image Processing, 2014, Bangalore.| 
- |</a></em>. <em><a href="https://www.youtube.com/watch?v=4ZpH4LM7EO0">View ICVGIP-14 Video</a></em> </font></p>|
+ |<em><a href="https://www.youtube.com/watch?v=4ZpH4LM7EO0">View ICVGIP-14 Video</a></em>|
 
 <br>
 <br>
