@@ -10,17 +10,17 @@ Please feel free to contact me for any queries.
 
 </hr>
 
-E-Mail : 
+E-Mail : </br>
 sivakarthik.m@research.iiit.ac.in, karthik.kovalam@gmail.com
 
 </hr>
 
-Address :
-Siva Karthik Mustikovela
-C/O Prof. K Madhava Krishna
-Robotics Research Centre
-International Institute of Information Technology-Hyderabad
-Gachibowli,
-Hyderabad - 500032
+Address : </br>
+Siva Karthik Mustikovela</br>
+C/O Prof. K Madhava Krishna</br>
+Robotics Research Centre</br>
+International Institute of Information Technology-Hyderabad</br>
+Gachibowli</br>
+Hyderabad - 500032</br>
 India
 
