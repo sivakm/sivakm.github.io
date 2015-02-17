@@ -8,8 +8,12 @@ excerpt: "Contact Siva Karthik Mustikovela"
 
 Please feel free to contact me for any queries. 
 
+</hr>
+
 E-Mail : 
 sivakarthik.m@research.iiit.ac.in, karthik.kovalam@gmail.com
+
+</hr>
 
 Address :
 Siva Karthik Mustikovela
