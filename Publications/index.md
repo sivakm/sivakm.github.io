@@ -20,5 +20,8 @@ excerpt: "A List of Publications"
  | *Siva Karthik M*, Sudhanshu Mittal and K.Madhava Krishna.  |
  | Indian Conference on Vision, Graphics and Image Processing, 2014, Bangalore.| 
 
+<br>
+<br>
 
- <sup>*</sup> Equal Contribution.
+
+ <sup>*</sup> <font size="1"> Equal Contribution.</font>
