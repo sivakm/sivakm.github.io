@@ -5,7 +5,7 @@ excerpt: "A List of Publications"
 ---
 
 
-* * **Markov Random Field based Small Obstacle Discovery over Images** *
+* **Markov Random Field based Small Obstacle Discovery over Images** *
 Suryansh Kumar
 
 Suryansh Kumar, *Siva Karthik M*, K Madhava Krishna.
