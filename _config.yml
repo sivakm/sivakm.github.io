@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Siva Karthik Mustikovela
+title:            
 locale:           en_US
 url:              
 
@@ -26,7 +26,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: 
+  name:   Siva Karthik Mustikovela
   avatar: IMG_4922_2.JPG
   bio: "I see to learn. And hence I learn to see better. Computer Vision and Robotics enthusiast. Love to cook food, of course eat a lot. Travel gives my soul loads of bliss!"
   email: sivakarthik.m@research.iiit.ac.in, karthik.kovalam@gmail.com
