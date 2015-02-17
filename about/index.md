@@ -1,13 +1,6 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+title: About Me
 ---
 
 ### Welcome
@@ -34,4 +27,4 @@ image:
     <tr><td>2009-Present</td><td>2013-Present</td><td>Summer, 2013</td><td>Summer, 2012</td></tr>
 </table>
 
-<hr/>
+<hr>
