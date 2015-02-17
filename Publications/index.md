@@ -12,7 +12,7 @@ excerpt: "A List of Publications"
 
 
 *| **Small Object Discovery and Recognition using Actively Guided Robots.**   | 
- |  Sudhanshu Mittal<sup>*</sup>, *Siva Karthik M<sup>*</sup>*, Suryansh Kumar and K.Madhava Krishna.   |
+ |  Sudhanshu Mittal<sup>*</sup>, <em>*Siva Karthik M<sup>*</sup></em>, Suryansh Kumar and K.Madhava Krishna.   |
  | International Conference on Pattern Recongnition, 2014, Sweden.| 
 
 
