@@ -16,6 +16,6 @@ excerpt: "A List of Publications"
  | International Conference on Pattern Recongnition, 2014, Sweden.| 
 
 
-*| **Guess from Far, Recognize when Near: Searching the Floor for Small Objects.**   | 
+*| **Guess from Far, Recognize when Near: Searching Floor for Small Objects.**   | 
  | *Siva Karthik M*, Sudhanshu Mittal and K.Madhava Krishna.  |
  | Indian Conference on Vision, Graphics and Image Processing, 2014, Bangalore.| 
