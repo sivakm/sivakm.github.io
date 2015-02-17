@@ -24,21 +24,21 @@ body {
 /* Site name */
 .site-name {
 	@include grid(11,10);
-	@include prefix(11,1);
-	@include suffix(11,1);
+	@include prefix(12,1);
+	@include suffix(12,1);
 	margin-bottom: none;
 	float: none;
 	display: block;
 	@include font-rem(24);
 	@media #{$small} {
-		@include grid(11,2);
-		@include prefix(11,0.5);
-		@include suffix(11,0.5);
+		@include grid(12,2);
+		@include prefix(12,0.5);
+		@include suffix(12,0.5);
 		@include font-rem(24);
 	}
 	@media #{$x-large} {
-		@include grid(11,1.5);
-		@include prefix(11,2);
+		@include grid(12,1.5);
+		@include prefix(12,2);
 	}
 }
 
