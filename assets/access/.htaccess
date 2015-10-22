@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "This Area is Password Protected"
-AuthUserFile /full/path/to/.htpasswd
+AuthUserFile /assets/access/.htpasswd
 Require valid-user
