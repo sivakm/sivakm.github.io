@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "CVLD stuff."
-AuthUserFile /CVLD/.htpasswd
-Require valid-user
