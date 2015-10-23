@@ -1,3 +1,4 @@
+<?php require('typeprotect.php'); ?>
 ---
 layout: page
 title: CVLD Documents
