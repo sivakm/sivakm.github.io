@@ -1,0 +1,4 @@
+AuthName "cvlab stuff"
+AuthType Basic
+AuthUserFile .htpasswd
+require valid-user
