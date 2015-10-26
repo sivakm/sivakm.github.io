@@ -15,7 +15,7 @@ title: About Me
   
     My interests revolve around Computer vision and Machine Learning. Lately I have developed a lot of interest in Deep Neural Networks and their applications.
     I earlier interned at Siemens Research, India, National University of Singapore and Notion Ink Design Labs, India. 
-    I love food. Cooking gives me loads of bliss and eating as well. I am crazy about musrooms and food that has mushrooms in it. I love travelling. I ve recently been on a road trip covering 1000 KM in Uttaranchal Hill ranges in Southern Himlayas in India.
+    I love food. Cooking gives me loads of bliss and eating as well. I am crazy about mushrooms and food that has mushrooms in it. I love travelling. I ve recently been on a road trip covering 1000 KM in Uttaranchal Hill ranges in Southern Himlayas in India.
   
   <hr/>
 
