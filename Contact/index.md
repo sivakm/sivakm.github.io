@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact Me : Siva Karthik Mustikovela
-excerpt: "Contact Siva Karthik Mustikovela"
+title: Siva Karthik Mustikovela
+excerpt: "Contact Me, Siva Karthik Mustikovela"
 ---
 
 
