@@ -4,7 +4,9 @@ title: Publications
 excerpt: "A List of Publications"
 ---
 
-
+*| [**Can Ground Truth Label Propagation from Video help Semantic Segmentation?**](/docs/siva_et_al_eccvw_2016.pdf)   | 
+ | *Siva Karthik M*, Michael Yang, Carsten Rother   |
+ | Video Segmentation Workshop, ECCV, 2016, Netherlands|
 
 *| [**Markov Random Field based Small Obstacle Discovery over Images.**](/docs/Suryansh_etal_ICRA_14.pdf)   | 
  | Suryansh Kumar, *Siva Karthik M*, K Madhava Krishna.   |
