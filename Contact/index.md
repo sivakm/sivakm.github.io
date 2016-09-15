@@ -11,18 +11,16 @@ Please feel free to contact me for any queries.
 <hr>
 
 E-Mail : <br>
-sivakarthik.m@research.iiit.ac.in, karthik.kovalam@gmail.com
+siva_karthik.mustikovela@tu-dresden.de, karthik.kovalam@gmail.com
 
 <hr>
 
 Address : <br>
 Siva Karthik Mustikovela<br>
-C/O Prof. K Madhava Krishna<br>
-Robotics Research Centre<br>
-International Institute of Information Technology-Hyderabad<br>
-Gachibowli<br>
-Hyderabad - 500032<br>
-India
+APB - 2028<br>
+Faculty of Informatics, TU-Dresden<br>
+Nöthnitzer Str. 46 01187 Dresden<br>
+Germany
 
 <hr>
 
