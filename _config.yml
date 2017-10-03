@@ -28,9 +28,9 @@ kramdown:
 owner:
   name:   
   avatar: IMG_4922_2.JPG
-  bio: "I see to learn. And hence I learn to see better. Computer Vision and Robotics enthusiast. Love to cook food, of course eat a lot. Travel gives my soul loads of bliss!"
+  bio: "I see to learn. And hence I learn to see better."
   email: sivakarthik.m@research.iiit.ac.in, karthik.kovalam@gmail.com
-  emailid: "You can reach me at siva_karthik.mustikovela@tu-dresden.de"
+  emailid: "You can reach me at siva.mustikovela@iwr.uni-heidelberg.de"
   disqus-shortname: Siva
   twitter: #username
   facebook: #username
@@ -55,7 +55,7 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
-  phone: +91-9032991734
+  phone: +49-15217792435
 
 include: [".htaccess"]
 keep_files: ['.htaccess']
