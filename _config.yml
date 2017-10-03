@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:                 Siva Karthik Mustikovela
+title:   Siva Karthik Mustikovela
 locale:           en_US
-url:  "sivakm.github.com"
+url:  "http://sivakm.github.io"
 baseurl: "/about"              
 
 
