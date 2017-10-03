@@ -27,13 +27,13 @@ body {
 	@include prefix(12,1);
 	@include suffix(12,1);
 	margin-bottom: none;
-	float: middle;
+	float: left;
 	display: block;
 	@include font-rem(40);
 	@media #{$small} {
 		@include grid(12,2);
-		@include prefix(12,1.5);
-		@include suffix(12,1.5);
+		@include prefix(12,0.5);
+		@include suffix(12,0.5);
 		@include font-rem(25);
 	}
 	@media #{$x-large} {
