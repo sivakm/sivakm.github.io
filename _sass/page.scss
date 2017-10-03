@@ -374,7 +374,7 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
-		max-width: 22px;
+		max-width: 220px;
 		@include rounded(300px);
 	}
 	@media #{$small} {
