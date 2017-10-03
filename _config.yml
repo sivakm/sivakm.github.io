@@ -2,7 +2,8 @@
 
 title:                 Siva Karthik Mustikovela
 locale:           en_US
-url:              
+url:
+baseurl: "/about"              
 
 
 # Jekyll configuration
