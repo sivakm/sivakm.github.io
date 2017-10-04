@@ -32,7 +32,7 @@ body {
 	@include font-rem(40);
 	@media #{$small} {
 		@include grid(12,2);
-		@include prefix(12,1.5);
+		@include prefix(12,0.5);
 		@include suffix(12,0.5);
 		@include font-rem(25);
 	}
@@ -268,7 +268,7 @@ $button-size: 1.5rem;
 	article {
 		h2 {
 			margin-bottom: 4px;
-			@include font-rem(20);
+			@include font-rem(10);
 			&.link-post {
 				margin-bottom: 0px + $doc-line-height;
 				margin-bottom: 0rem + ($doc-line-height / $doc-font-size);
