@@ -4,10 +4,10 @@ title : Home
 ---
 
 
-I am a PhD student at Visual Learning Lab (HCI, University of Heidelberg) with Prof. Carsten Rother. I am interested in the general problem of scene understanding through Computer Vision and Machine Learning.
+I am a PhD student at Visual Learning Lab (HCI, University of Heidelberg) with Prof. Carsten Rother. I am interested in the general problem of scene understanding through Computer Vision and Machine Learning.<br />
 
 
-Currently, I am immensely interested in creating realistically rendered data useful to train deep neural networks. Earlier, I worked on estimating optic flow and disparity for outdoor driving scenes.
+Currently, I am immensely interested in creating realistically rendered data useful to train deep neural networks. Earlier, I worked on estimating optic flow and disparity for outdoor driving scenes.<br />
 
 
 Before this I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
