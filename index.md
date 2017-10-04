@@ -8,7 +8,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 <h2>Welcome</h2>
   <hr/>
-  <font size="2">
+  <font size="3">
   
   <p>
     I am a PhD student at Visual Learning Lab (HCI, University of Heidelberg) with Prof. Carsten Rother. I am interested in the general problem of scene understanding through Computer Vision and Machine Learning. <br/> 
