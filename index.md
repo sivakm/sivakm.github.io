@@ -10,14 +10,6 @@ I am a PhD student at Visual Learning Lab (HCI, University of Heidelberg) with P
 Currently, I am immensely interested in creating realistically rendered data useful to train deep neural networks. Earlier, I worked on estimating optic flow and disparity for outdoor driving scenes.
 Before this I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
 
- <!--       
-  <p>
-     I am a PhD student at <a href="http://cvlab-dresden.de/"> Computer Vision Lab(CVLD)</a>, supervised by <a href="http://cvlab-dresden.de/people/"> Prof. Carsten Rother </a> at <a href="http://www.tu-dresden.de/"> Technische Universität Dresden</a>. Earlier, I did my Master's under the guidance of Prof. K Madhava Krishna at <a href="http://robotics.iiit.ac.in/"> Robotics Research Centre</a>, International Institute of Information Technology-Hyderabad, India.
-  </p>
-  </p>-->
-  
-  </font>
-
   <hr/>
   <font size="2">
   <div align="center"><b>I am privileged to be associated with the following</b></div>
