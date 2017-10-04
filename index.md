@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 ---
 
 
-<h2>Welcome</h2>
+<h3>Welcome</h3>
   <hr/>
   <font size="3">
   
