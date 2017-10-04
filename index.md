@@ -3,7 +3,7 @@ layout: page
 title : Home
 ---
 
-<font size="3">
+<font size="2">
 I am a PhD student at Visual Learning Lab (HCI, University of Heidelberg) with Prof. Carsten Rother. I am interested in the general problem of scene understanding through Computer Vision and Machine Learning.<br />
 
 
