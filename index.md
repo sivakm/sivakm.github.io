@@ -12,7 +12,7 @@ I am a PhD student at Visual Learning Lab (HCI, Uni-Heidelberg) with Prof. Carst
 <font size="4">
 <div align="center"><b>News</b></div>
 </font>
-* One paper accepted to ICCV 2017 - Comparing recognition granularities for object scene flow estimation.
+* Our paper on Comparing recognition granularities for object scene flow estimation is accepted at ICCV 17.
 
 <hr/>
 <font size="2">
