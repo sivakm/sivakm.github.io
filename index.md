@@ -9,7 +9,7 @@ PhD student at Visual Learning Lab (HCI, Uni-Heidelberg) with Prof. Carsten Roth
 * I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
 
 <hr/>
-<font size="4">
+<font size="5">
 <div align="center"><b>News</b></div>
 </font>
 * One paper accepted to ICCV 2017 - Comparing recognition granularities for object scene flow estimation.
