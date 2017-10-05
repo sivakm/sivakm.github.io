@@ -374,7 +374,7 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
-		max-width: 185px;
+		max-width: 180px;
 		@include rounded(240px);
 	}
 	@media #{$small} {
@@ -386,7 +386,7 @@ $button-size: 1.5rem;
 		p,
 		.author-social {
 			display: block;
-			max-width: 260px;
+			max-width: 180px;
 		}
 		h3 {
 			margin-top: 8px;
@@ -404,7 +404,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 260	;
+			max-width: 180	;
 		}
 	}
 	@media #{$x-large} {
