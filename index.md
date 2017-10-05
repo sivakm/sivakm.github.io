@@ -6,7 +6,9 @@ title : Home
 <p>
 I am a PhD student at Visual Learning Lab (HCI, Uni-Heidelberg) with Prof. Carsten Rother, working in Computer Vision. Currently, I am focusing on creating realistically rendered data useful to train deep neural networks. Earlier, I worked on estimating optic flow and disparity for outdoor driving scenes.
 </p>
+<p>
 I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
+</p>
 
 <hr/>
 <font size="5">
