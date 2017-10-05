@@ -11,7 +11,7 @@ Currently, I am immensely interested in creating realistically rendered data use
 Before this I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
 
 <hr/>
-<h4>News</h4>
+<div align="center"><b>News</b></div>
 * One paper accepted to ICCV 2017
 
 <hr/>
