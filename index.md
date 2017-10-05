@@ -13,7 +13,7 @@ I am a PhD student at Visual Learning Lab (HCI, Uni-Heidelberg) with Prof. Carst
 <div align="center"><b>News</b></div>
 </font>
 
-<font size="2">
+<font size="3">
 <ul>
 <li>One paper at ICCV 17 - What recognition granularity helps object scene flow estimation[pdf].</li>
 <li>Detailed arxiv version of our BMVC 17 paper (augmented reality meets computer vision)[pdf].</li>
