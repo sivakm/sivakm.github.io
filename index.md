@@ -13,13 +13,13 @@ I am a PhD student at Visual Learning Lab (HCI, Uni-Heidelberg) with Prof. Carst
 <div align="center"><b>News</b></div>
 </font>
 
-<font size="3">
+<font size="2">
 <ul>
 <li>Our work on Comparing recognition granularities to improve object scene flow estimation is accepted at ICCV 17 [pdf].</li>
 <li>The detailed version of our BMVC 17 paper (Augmented Reality Meets Deep Learning for Car Instance Segmentation) is available on arxiv [pdf].</li>
 <li>Our work on photo-realistic augmentation of real images with synthetic objects to create large datasets for CNN training is accepted at BMVC 17 [pdf].</li>
-</font>
 </ul>
+</font>
 
 <hr/>
 <font size="2">
