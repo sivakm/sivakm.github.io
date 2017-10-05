@@ -16,8 +16,8 @@ I am a PhD student at Visual Learning Lab (HCI, Uni-Heidelberg) with Prof. Carst
 <font size="2">
 <ul>
 <li>One paper at ICCV 17 - What recognition granularity helps object scene flow estimation[pdf].</li>
-<li>Detailed version of our BMVC 17 paper (Augmented Reality Meets Deep Learning for Car Instance Segmentation) on arxiv[pdf].</li>
-<li>One paper at BMVC 17 - Photo-realistic augmentation of images with synthetic objects for CNN training[pdf].</li>
+<li>Detailed arxiv version of our BMVC 17 paper (augmented reality meets computer vision)[pdf].</li>
+<li>One paper at BMVC 17 - Photo-realistic augmentation of images with synthetic objects to train CNNs[pdf].</li>
 </ul>
 </font>
 
