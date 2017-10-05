@@ -12,7 +12,7 @@ I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madha
 
 <hr/>
 <div align="center"><b>News</b></div>
-* One paper accepted to ICCV 2017
+* One paper accepted to ICCV 2017 - Comparing recognition granularities for object scene flow estimation.
 
 <hr/>
 <font size="2">
