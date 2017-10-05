@@ -31,7 +31,8 @@ owner:
   #bio: "I see to learn. And hence I learn to see better."
   bio: "PhD student at Visual Learning Lab HCI, Univ. Heidelberg"
   email: siva.mustikovela@iwr.uni-heidelberg.de
-  emailid: siva.mustikovela@iwr.uni-heidelberg.de
+  #emailid: siva.mustikovela@iwr.uni-heidelberg.de
+  emailid: siva_karthik.mustikovela@tu-dresden.de
   disqus-shortname: Siva
   twitter: #username
   facebook: #username
