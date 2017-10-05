@@ -115,7 +115,7 @@ $button-size: 1.5rem;
 	opacity: 1;
 }
 .navicon-lines-button:active {
-	transition: 0;
+	transition: 1;
 }
 .navicon-lines {
 	margin-right: 10px;
@@ -354,7 +354,7 @@ $button-size: 1.5rem;
 .author-social {
   display: block;
   margin-bottom: 5px;
-  @include font-rem(14);
+  @include font-rem(16);
   color: $black;
   &:visited {
     color: $black;
