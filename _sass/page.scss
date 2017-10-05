@@ -375,7 +375,7 @@ $button-size: 1.5rem;
 	display: none;
 	.bio-photo {
 		max-width: 180px;
-		@include rounded(240px);
+		@include rounded(220px);
 	}
 	@media #{$small} {
 		display: block;
