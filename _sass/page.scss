@@ -354,7 +354,7 @@ $button-size: 1.5rem;
 .author-social {
   display: block;
   margin-bottom: 5px;
-  @include font-rem(12);
+  @include font-rem(14);
   color: $black;
   &:visited {
     color: $black;
@@ -366,7 +366,7 @@ $button-size: 1.5rem;
     @include translate(0, 2px);
   }
   .fa {
-		margin-right: 3px;
+		margin-right: 5px;
 	}
 }
 
@@ -386,7 +386,7 @@ $button-size: 1.5rem;
 		p,
 		.author-social {
 			display: block;
-			max-width: 100px;
+			max-width: 170px;
 		}
 		h3 {
 			margin-top: 8px;
@@ -404,7 +404,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 100	;
+			max-width: 170	;
 		}
 	}
 	@media #{$x-large} {
