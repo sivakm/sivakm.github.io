@@ -5,6 +5,7 @@ excerpt: "A List of Publications"
 ---
 
 * **Can Ground Truth Label Propagation from Video help Semantic Segmentation?**
+ 
  *Siva Karthik M*, Michael Yang, Carsten Rother   
  Video Segmentation Workshop, ECCV 16 [pdf](/docs/siva_et_al_eccvw_2016.pdf) 
  
