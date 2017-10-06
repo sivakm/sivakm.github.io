@@ -4,13 +4,13 @@ title: Publications
 excerpt: "A List of Publications"
 ---
 
-* [**Can Ground Truth Label Propagation from Video help Semantic Segmentation?**](/docs/siva_et_al_eccvw_2016.pdf) 
+* **Can Ground Truth Label Propagation from Video help Semantic Segmentation?**[pdf](/docs/siva_et_al_eccvw_2016.pdf) 
  *Siva Karthik M*, Michael Yang, Carsten Rother   
- Video Segmentation Workshop, ECCV, 2016, Netherlands
+ Video Segmentation Workshop, ECCV 16
 
 * [**Markov Random Field based Small Obstacle Discovery over Images.**](/docs/Suryansh_etal_ICRA_14.pdf) 
   Suryansh Kumar, *Siva Karthik M*, K Madhava Krishna.  
-  International Conference on Robotics and Automation(ICRA), 2014, Hong Kong.
+  ICRA 14 
  <em><a href="https://www.youtube.com/watch?v=WPZQbYSef78">View ICRA-14 Video</a></em>
 
 
