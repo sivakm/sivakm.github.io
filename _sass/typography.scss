@@ -45,9 +45,8 @@ a {
 		outline: thin dotted; 
 		color: $linkcolorfocus;
 	}
-	&:hover, 
 	&:active { 
-		color: $linkcolornow;
+		color: #ff3333;
 		outline: 5; 
 	}
 }
