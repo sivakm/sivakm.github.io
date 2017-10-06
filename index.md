@@ -20,7 +20,7 @@ I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madha
 * Our work on exploring recognition granularities to improve object scene flow estimation is accepted at ICCV 17  [[pdf](/docs/iccv17.pdf)]
 * Detailed arxiv version of our BMVC 17 paper (augmented reality meets computer vision) [[pdf](https://arxiv.org/abs/1708.01566)]
 * Our work on photo-realistic augmentation of images with synthetic objects to train CNNs is accepted at BMVC 17 [[pdf](/docs/Alhaija2017BMVC.pdf)]
-* Our paper on improving CNN performance using data from temporal label propagation is accepted at ECCV 16, Video Segmentation Workshop. [[pdf](/docs/sivaeccv16.pdf)]
+* Our paper on improving CNNs using label propagation data is accepted at ECCV 16, Video Segmentation Workshop. [[pdf](/docs/sivaeccv16.pdf)]
 
 
 <hr/>
