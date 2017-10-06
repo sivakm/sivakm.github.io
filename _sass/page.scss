@@ -29,7 +29,7 @@ body {
 	margin-bottom: none;
 	float: center;
 	display: block;
-	@include font-rem(40);
+	@include font-rem(30);
 	@media #{$small} {
 		@include grid(12,2);
 		@include prefix(12,1.5);
