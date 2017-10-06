@@ -13,8 +13,8 @@
 }  	
 ::selection { 
 	background-color: lighten($basecolor, 65%); 
-	color: $basecolor; 
-	text-shadow: none; 
+	color: lighten($basecolor, 65%); 
+	text-shadow: 1px 1px 2px black; 
 }
 
 /* 
