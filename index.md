@@ -6,7 +6,9 @@ title : Home
 
 I am a PhD student at Visual Learning Lab (HCI, Uni-Heidelberg) with Prof. Carsten Rother. My research is in the field of Computer Vision and Machine Learning. 
 
-I focus on creating realistically rendered data useful to train deep neural networks. Earlier, I worked on improving scene flow estimation through various object recognition granularities. I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I dealt with object search in indoor environments.
+I focus on creating realistically rendered data useful to train deep neural networks. Earlier, I worked on improving scene flow estimation through various object recognition granularities. 
+
+I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
 
 **Email :** siva.mustikovela@iwr.uni-heidelberg.de
 
@@ -15,9 +17,9 @@ I focus on creating realistically rendered data useful to train deep neural netw
 <div align="center"><b>News</b></div>
 </font>
 
-* Our paper at ICCV 17 - What recognition granularity helps object scene flow estimation [[pdf](/docs/iccv17.pdf)]
+* Our work exploring recognition granularities to improve object scene flow estimation is accepted at ICCV 17  [[pdf](/docs/iccv17.pdf)]
 * Detailed arxiv version of our BMVC 17 paper (augmented reality meets computer vision) [[pdf](https://arxiv.org/abs/1708.01566)]
-* Our paper at BMVC 17 - Photo-realistic augmentation of images with synthetic objects to train CNNs [[pdf]]
+* Our work on photo-realistic augmentation of images with synthetic objects to train CNNs is accepted at BMVC 17 [[pdf](/docs/Alhaija2017BMVC.pdf)]
 
 <hr/>
 <font size="2">
