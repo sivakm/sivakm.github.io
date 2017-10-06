@@ -47,6 +47,7 @@ a {
 	}
 	&:hover, 
 	&:active { 
+		color: $linkcolornow;
 		outline: 5; 
 	}
 }
