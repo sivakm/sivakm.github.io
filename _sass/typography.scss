@@ -43,10 +43,11 @@ a {
 	}
 	&:focus { 
 		outline: thin dotted; 
-		color: #ff3333;;
+		color: $linkcolorfocus;
 	}
+
 	&:active { 
-		color: #ff3333;
+		color: $linkcolornow;
 		outline: 5; 
 	}
 }
