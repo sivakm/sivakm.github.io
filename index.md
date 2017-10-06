@@ -5,6 +5,7 @@ title : Home
 
 
 I am a PhD student at Visual Learning Lab (HCI, Uni-Heidelberg) with Prof. Carsten Rother. My research is in the field of Computer Vision and Machine Learning. 
+
 I focus on creating realistically rendered data useful to train deep neural networks. Earlier, I worked on improving scene flow estimation through various object recognition granularities. I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I dealt with object search in indoor environments.
 
 **Email :** siva.mustikovela@iwr.uni-heidelberg.de
