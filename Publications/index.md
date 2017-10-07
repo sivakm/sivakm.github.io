@@ -19,7 +19,7 @@ excerpt: "A List of Publications"
 |ICPR 2014 [[pdf]](/docs/Sudhanshu_etal_ICPR_14.pdf)|
 
 
-|[**Guess from Far, Recognize when Near: Searching Floor for Small Objects.**(/docs/Siva_etal_ICVGIP_14.pdf)]|
+|[**Guess from Far, Recognize when Near: Searching Floor for Small Objects.**](/docs/Siva_etal_ICVGIP_14.pdf)|
 |Siva Karthik M, Sudhanshu Mittal and K.Madhava Krishna |
 |ICVGIP 2014  [[pdf]](/docs/Siva_etal_ICVGIP_14.pdf) [[video]](https://www.youtube.com/watch?v=4ZpH4LM7EO0)|
  
