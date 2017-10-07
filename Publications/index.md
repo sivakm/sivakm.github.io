@@ -9,25 +9,23 @@ excerpt: "A List of Publications"
 | Video Seg. Workshop, ECCV 16 **[[pdf](/docs/siva_et_al_eccvw_2016.pdf)]** |
  
 
-| [**Markov Random Field based Small Obstacle Discovery over Images.**](/docs/Suryansh_etal_ICRA_14.pdf) |
-|  Suryansh Kumar, *Siva Karthik M*, K Madhava Krishna.  |
-|  ICRA 14 |
-| <em><a href="https://www.youtube.com/watch?v=WPZQbYSef78">View ICRA-14 Video</a></em>|
+| [**Markov Random Field based Small Obstacle Discovery over Images.**] |
+|  Suryansh Kumar, *Siva Karthik M*, K Madhava Krishna  |
+|  ICRA 14 [[pdf]](/docs/Suryansh_etal_ICRA_14.pdf) [[video]](https://www.youtube.com/watch?v=WPZQbYSef78)|
 
 
-* [**Small Object Discovery and Recognition using Actively Guided Robots.**](/docs/Sudhanshu_etal_ICPR_14.pdf)   
-  Sudhanshu Mittal<sup>*</sup>, <em>Siva Karthik M</em><sup>*</sup>, Suryansh Kumar and K.Madhava Krishna.  
-  International Conference on Pattern Recongnition, 2014, Sweden.
+|[**Small Object Discovery and Recognition using Actively Guided Robots.**]|   
+|Sudhanshu Mittal<sup>*</sup>, <em>Siva Karthik M</em><sup>*</sup>, Suryansh Kumar and K.Madhava Krishna  |
+|ICPR 2014 [[pdf]](/docs/Sudhanshu_etal_ICPR_14.pdf)|
 
 
-* [**Guess from Far, Recognize when Near: Searching Floor for Small Objects.**](/docs/Siva_etal_ICVGIP_14.pdf) 
-  Siva Karthik M, Sudhanshu Mittal and K.Madhava Krishna. 
-  Indian Conference on Vision, Graphics and Image Processing, 2014, Bangalore.
- <em><a href="https://www.youtube.com/watch?v=4ZpH4LM7EO0">View ICVGIP-14 Video</a></em>
+|[**Guess from Far, Recognize when Near: Searching Floor for Small Objects.**]|
+|Siva Karthik M, Sudhanshu Mittal and K.Madhava Krishna |
+|ICVGIP 2014  [[pdf]](/docs/Siva_etal_ICVGIP_14.pdf) [[video]](https://www.youtube.com/watch?v=4ZpH4LM7EO0)|
  
-* [**Decision Theoretic Search for Small Objects through Integrating Far and Near Cues**](/docs/Siva_etal_ECMR_15.pdf)  
-  Siva Karthik M, Sudhanshu Mittal and K.Madhava Krishna.  
-  European Conference on Mobile Robotics, 2015, Lincoln, UK. 
+|[**Decision Theoretic Search for Small Objects through Integrating Far and Near Cues**] |
+|Siva Karthik M, Sudhanshu Mittal and K.Madhava Krishna  |
+|ECMR 2015 [[pdf]](/docs/Siva_etal_ECMR_15.pdf)|
  
 
 <br>
