@@ -4,6 +4,11 @@ title: Publications
 excerpt: "A List of Publications"
 ---
 
+|[**Bounding Boxes, Segmentations and Object Coordinates: How Important is Recognition for 3D Scene Flow Estimation in Autonomous Driving Scenarios?**](/docs/iccv17.pdf)|
+| Aseem Behl<sup>*</sup>, Omid Hosseini Jafari<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, Hassan Abu Alhaija, Carsten Rother, Andreas Geiger|
+| ICCV 17 [[pdf](/docs/iccv17.pdf)] &nbsp; <sup>*</sup>equal contribution|
+
+
 |[**Can Ground Truth Label Propagation from Video help Semantic Segmentation?**](/docs/siva_et_al_eccvw_2016.pdf)|
 | **Siva Karthik M**, Michael Yang, Carsten Rother |
 | Video Seg. Workshop, ECCV 16 [[pdf](/docs/siva_et_al_eccvw_2016.pdf)] |
