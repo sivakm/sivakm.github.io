@@ -6,31 +6,35 @@ excerpt: "A List of Publications"
 
 |[**Bounding Boxes, Segmentations and Object Coordinates: How Important is Recognition for 3D Scene Flow Estimation in Autonomous Driving Scenarios?**](/docs/iccv17.pdf)|
 | Aseem Behl<sup>*</sup>, Omid Hosseini Jafari<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, Hassan Abu Alhaija, Carsten Rother, Andreas Geiger|
-| **ICCV 17** [[pdf](/docs/iccv17.pdf)] &nbsp; <sup>*</sup>equal contribution|
+| **ICCV 17** [[paper](/docs/iccv17.pdf)] &nbsp; <sup>*</sup>equal contribution|
 
+|[*Augmented Reality Meets Computer Vision : Efficient Data Generation for Urban Driving Scenes**](https://arxiv.org/abs/1708.01566)|
+| Hassan Abu Alhaija, **Siva Karthik M**, Lars Mescheder, Andreas Geiger, Carsten Rother |
+| **Extended Arxiv (BMVC 17)** [[paper]](https://arxiv.org/abs/1708.01566) |
+
+|[**Augmented Reality Meets Deep Learning for Car Instance Segmentation in Urban Scenes**](/docs/Alhaija2017BMVC.pdf)|
+| Hassan Abu Alhaija, **Siva Karthik M**, Lars Mescheder, Andreas Geiger, Carsten Rother |
+| **BMVC 17** [[paper](/docs/Alhaija2017BMVC.pdf)] |
 
 |[**Can Ground Truth Label Propagation from Video help Semantic Segmentation?**](/docs/siva_et_al_eccvw_2016.pdf)|
 | **Siva Karthik M**, Michael Yang, Carsten Rother |
-| Video Seg. Workshop, **ECCV 16** [[pdf](/docs/siva_et_al_eccvw_2016.pdf)] |
- 
+| Video Seg. Workshop, **ECCV 16** [[paper](/docs/siva_et_al_eccvw_2016.pdf)] |
 
 | [**Markov Random Field based Small Obstacle Discovery over Images.**](/docs/Suryansh_etal_ICRA_14.pdf) |
 |  Suryansh Kumar<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, K Madhava Krishna  |
-|  **ICRA 14** [[pdf]](/docs/Suryansh_etal_ICRA_14.pdf) [[video]](https://www.youtube.com/watch?v=WPZQbYSef78) &nbsp; <sup>*</sup>equal contribution|
-
+|  **ICRA 14** [[paper]](/docs/Suryansh_etal_ICRA_14.pdf) [[video]](https://www.youtube.com/watch?v=WPZQbYSef78) &nbsp; <sup>*</sup>equal contribution|
 
 |[**Small Object Discovery and Recognition using Actively Guided Robots.**](/docs/Sudhanshu_etal_ICPR_14.pdf)|   
 |Sudhanshu Mittal<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, Suryansh Kumar and K.Madhava Krishna  |
-|**ICPR 2014** [[pdf]](/docs/Sudhanshu_etal_ICPR_14.pdf) &nbsp; <sup>*</sup>equal contribution| 
-
+|**ICPR 2014** [[paper]](/docs/Sudhanshu_etal_ICPR_14.pdf) &nbsp; <sup>*</sup>equal contribution| 
 
 |[**Guess from Far, Recognize when Near: Searching Floor for Small Objects.**](/docs/Siva_etal_ICVGIP_14.pdf)|
 |**Siva Karthik M**, Sudhanshu Mittal and K.Madhava Krishna |
-|**ICVGIP 2014**  [[pdf]](/docs/Siva_etal_ICVGIP_14.pdf) [[video]](https://www.youtube.com/watch?v=4ZpH4LM7EO0)|
+|**ICVGIP 2014**  [[paper]](/docs/Siva_etal_ICVGIP_14.pdf) [[video]](https://www.youtube.com/watch?v=4ZpH4LM7EO0)|
  
 |[**Decision Theoretic Search for Small Objects through Integrating Far and Near Cues**](/docs/Siva_etal_ECMR_15.pdf) |
 |**Siva Karthik M**, Sudhanshu Mittal and K.Madhava Krishna  |
-|**ECMR 2015** [[pdf]](/docs/Siva_etal_ECMR_15.pdf)|
+|**ECMR 2015** [[paper]](/docs/Siva_etal_ECMR_15.pdf)|
 
 
 <hr>
