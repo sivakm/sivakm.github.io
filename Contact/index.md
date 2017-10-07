@@ -4,22 +4,18 @@ title: Siva Karthik Mustikovela
 excerpt: "Contact Me, Siva Karthik Mustikovela"
 ---
 
-
-
-Please feel free to contact me for any queries. 
-
-<hr>
-
-E-Mail : <br>
-siva.mustikovela@iwr.uni-heidelberg.de, karthik.kovalam@gmail.com
+**E-Mail :**<br>
+siva.mustikovela@iwr.uni-heidelberg.de<br>
+karthik.kovalam@gmail.com
 
 <hr>
 
 Address : <br>
 Siva Karthik Mustikovela<br>
-APB - 2028<br>
-Faculty of Informatics, TU-Dresden<br>
-Nöthnitzer Str. 46 01187 Dresden<br>
+Room: B03.117<br>
+Heidelberg COllaboratory for Image Processing (HCI)<br>
+Berliner Strasse 43<br>
+Heidelberg 69120<br>
 Germany
 
 <hr>
