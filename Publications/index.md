@@ -10,13 +10,13 @@ excerpt: "A List of Publications"
  
 
 | [**Markov Random Field based Small Obstacle Discovery over Images.**](/docs/Suryansh_etal_ICRA_14.pdf) |
-|  Suryansh Kumar, **Siva Karthik M**, K Madhava Krishna  |
-|  ICRA 14 [[pdf]](/docs/Suryansh_etal_ICRA_14.pdf) [[video]](https://www.youtube.com/watch?v=WPZQbYSef78)|
+|  Suryansh Kumar<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, K Madhava Krishna  |
+|  ICRA 14 [[pdf]](/docs/Suryansh_etal_ICRA_14.pdf) [[video]](https://www.youtube.com/watch?v=WPZQbYSef78) <sup>*</sup>equal contribution|
 
 
 |[**Small Object Discovery and Recognition using Actively Guided Robots.**](/docs/Sudhanshu_etal_ICPR_14.pdf)|   
 |Sudhanshu Mittal<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, Suryansh Kumar and K.Madhava Krishna  |
-|ICPR 2014 [[pdf]](/docs/Sudhanshu_etal_ICPR_14.pdf)|
+|ICPR 2014 [[pdf]](/docs/Sudhanshu_etal_ICPR_14.pdf)  <sup>*</sup>equal contribution| 
 
 
 |[**Guess from Far, Recognize when Near: Searching Floor for Small Objects.**](/docs/Siva_etal_ICVGIP_14.pdf)|
