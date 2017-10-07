@@ -10,7 +10,7 @@ karthik.kovalam@gmail.com
 
 <hr>
 
-Address : <br>
+**Address : **<br>
 Siva Karthik Mustikovela<br>
 Room: B03.117<br>
 Heidelberg Collaboratory for Image Processing (HCI)<br>
