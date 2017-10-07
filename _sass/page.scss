@@ -24,17 +24,17 @@ body {
 /* Site name */
 .site-name {
 	@include grid(10,10);
-	@include prefix(12,2);
-	@include suffix(12,1);
+	@include prefix(12,1);
+	@include suffix(12,1);	
 	margin-bottom: none;
-	float: center;
+	float: none;
 	display: block;
-	@include font-rem(30);
+	@include font-rem(26);
 	@media #{$small} {
-		@include grid(12,2);
-		@include prefix(12,1.5);
-		@include suffix(12,0.5);
-		@include font-rem(25);
+		@include grid(10,2);
+		@include prefix(10,1.2); /* CHANGES LEFT MARGIN/INDENTATION OF SITE NAME */
+		@include suffix(10,0.1); /* CHANGES RIGHT MARGIN/INDENTATION OF SITE NAME */
+		@include font-rem(20); /* CHANGES FONT SIZE OF TOP SITE NAME */
 	}
 	@media #{$x-large} {
 		@include grid(12,1.5);
@@ -47,11 +47,12 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
+	margin-top: 0.3em;
 	margin-bottom: 1em;
 	float: none;
 	display: block;
 	@media #{$small} {
-		@include grid(12,9);
+		@include grid(12,5);
 		@include prefix(12,0);
 		@include suffix(12,0);
 	}
@@ -69,7 +70,7 @@ body {
 		list-style-type: none;
 		border-bottom: 1px solid lighten($black,80);
 		border-bottom: 1px solid fade($black,10);
-		@include font-rem(20);
+		@include font-rem(16); /* CHANGES FONT SIZE OF TOP NAVIGATION BAR */
 		&:last-child {
 			border-bottom: 0 solid transparent;
 		}
@@ -115,7 +116,7 @@ $button-size: 1.5rem;
 	opacity: 1;
 }
 .navicon-lines-button:active {
-	transition: 1;
+	transition: 0;
 }
 .navicon-lines {
 	margin-right: 10px;
@@ -229,12 +230,12 @@ $button-size: 1.5rem;
 	.post,
 	.page {
 		@include container;
-		@include grid(12,30);
-		@include prefix(12,0.5);
+		@include grid(12,10);
+		@include prefix(12,1);
 		@include suffix(12,1);
 		margin-bottom: 2em;
 		@media #{$small} {
-			@include grid(12,8);
+			@include grid(12,5.5); /* CHANGES WIDTH OF THE MAIN CONTENT */
 			@include prefix(12,0);
 			@include suffix(12,0);
 		}
@@ -262,7 +263,7 @@ $button-size: 1.5rem;
 	h3 {
 		margin: 0;
 		padding-bottom: .5em;
-		@include font-rem(14);
+		@include font-rem(28);
 		border-bottom: 1px solid lighten($black,70);
 	}
 	article {
@@ -354,7 +355,7 @@ $button-size: 1.5rem;
 .author-social {
   display: block;
   margin-bottom: 5px;
-  @include font-rem(14);
+  @include font-rem(12);
   color: $black;
   &:visited {
     color: $black;
@@ -374,29 +375,29 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
-		max-width: 170px;
-		@include rounded(200px);
+		max-width: 150px;
+		@include rounded(30px);
 	}
 	@media #{$small} {
 		display: block;
-		@include grid(12,2);
-		@include prefix(12,0.5);
-		@include suffix(12,0.5);
+		@include grid(10,2);
+		@include prefix(10,1.2);
+		@include suffix(10,0.1);
 		h3,
 		p,
 		.author-social {
 			display: block;
-			max-width: 170px;
+			max-width: 150px;
 		}
 		h3 {
-			margin-top: 8px;
-			margin-bottom: 5px;
+			margin-top: 10px;
+			margin-bottom: 10px;
 		}
 		p {
-			margin-bottom: 3px;
+			margin-bottom: 10px;
 		}
 		.author-social {
-			margin-bottom: 3px;
+			margin-bottom: 5px;
 		}
 	}
 	@media #{$large} {
@@ -404,7 +405,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 170	;
+			max-width: 150px;
 		}
 	}
 	@media #{$x-large} {
@@ -468,7 +469,7 @@ $button-size: 1.5rem;
 		margin: 0;
 		padding: 5px 10px;
 		color: $white;
-		@include font-rem(14);
+		@include font-rem(16);
 		text-transform: uppercase;
 		&:hover {
 			cursor: pointer;
