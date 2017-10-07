@@ -8,7 +8,7 @@ excerpt: "A List of Publications"
 | Aseem Behl<sup>*</sup>, Omid Hosseini Jafari<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, Hassan Abu Alhaija, Carsten Rother, Andreas Geiger|
 | **ICCV 17** [[paper](/docs/iccv17.pdf)] &nbsp; <sup>*</sup>equal contribution|
 
-|[*Augmented Reality Meets Computer Vision : Efficient Data Generation for Urban Driving Scenes**](https://arxiv.org/abs/1708.01566)|
+|[**Augmented Reality Meets Computer Vision : Efficient Data Generation for Urban Driving Scenes**](https://arxiv.org/abs/1708.01566)|
 | Hassan Abu Alhaija, **Siva Karthik M**, Lars Mescheder, Andreas Geiger, Carsten Rother |
 | **Extended Arxiv (BMVC 17)** [[paper]](https://arxiv.org/abs/1708.01566) |
 
