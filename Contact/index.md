@@ -13,7 +13,7 @@ karthik.kovalam@gmail.com
 Address : <br>
 Siva Karthik Mustikovela<br>
 Room: B03.117<br>
-Heidelberg COllaboratory for Image Processing (HCI)<br>
+Heidelberg Collaboratory for Image Processing (HCI)<br>
 Berliner Strasse 43<br>
 Heidelberg 69120<br>
 Germany
