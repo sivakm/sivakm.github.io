@@ -5,7 +5,7 @@ excerpt: "A List of Publications"
 ---
 
 |[**Bounding Boxes, Segmentations and Object Coordinates: How Important is Recognition for 3D Scene Flow Estimation in Autonomous Driving Scenarios?**](/docs/iccv17.pdf)|
-| Aseem Behl<sup>*</sup>, Omid Hosseini Jafari<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, Hassan Abu Alhaija, Carsten Rother, Andreas Geiger|
+| **Siva Karthik M**<sup>*</sup>, Aseem Behl<sup>*</sup>, Omid Hosseini Jafari<sup>*</sup>, Hassan Abu Alhaija, Carsten Rother, Andreas Geiger|
 | **ICCV 17** [[paper](/docs/iccv17.pdf)] &nbsp; <sup>*</sup>equal contribution|
 
 |[**Augmented Reality Meets Computer Vision : Efficient Data Generation for Urban Driving Scenes**](https://arxiv.org/abs/1708.01566)|
