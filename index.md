@@ -4,7 +4,7 @@ title : Home
 ---
 
 
-I am a PhD student at Visual Learning Lab (HCI, Uni-Heidelberg) with Prof. Carsten Rother. My research is in the field of Computer Vision and Machine Learning. 
+I am a PhD student with [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) at [Visual Learning Lab (University of Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/). I am co-advised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger) My research is in the field of Computer Vision and Machine Learning. 
 
 I focus on creating realistically rendered data useful to train deep neural networks. Earlier, I worked on improving scene flow estimation through various object recognition granularities. 
 
