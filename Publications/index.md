@@ -4,38 +4,94 @@ title: Publications
 excerpt: "A List of Publications"
 ---
 
-|[**Bounding Boxes, Segmentations and Object Coordinates: How Important is Recognition for 3D Scene Flow Estimation in Autonomous Driving Scenarios?**](/docs/iccv17.pdf)|
-| **Siva Karthik M**<sup>*</sup>, Aseem Behl<sup>*</sup>, Omid Hosseini Jafari<sup>*</sup>, Hassan Abu Alhaija, Carsten Rother, Andreas Geiger|
-| **ICCV 17** [[paper](/docs/iccv17.pdf)] &nbsp; <sup>*</sup>equal contribution|
 
-|[**Augmented Reality Meets Computer Vision : Efficient Data Generation for Urban Driving Scenes**](https://arxiv.org/abs/1708.01566)|
-| Hassan Abu Alhaija, **Siva Karthik M**, Lars Mescheder, Andreas Geiger, Carsten Rother |
-| **Extended Arxiv (BMVC 17)** [[paper]](https://arxiv.org/abs/1708.01566) |
+<table>
+  <tr>
+    <td width="25%">    <img src="/images/ipose.png" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs/ipose.pdf"> 
+    <strong> iPose: Instance-Aware 6D Pose Estimation of Partly Occluded Objects </strong> </a> <br/> 
+    <strong>Siva Karthik M<sup>*</sup></strong>, Omid Hosseini Jafari<sup>*</sup>, Karl Pertsch, Eric Brachmann, Carsten Rother<br/> 
+    <strong> ACCV 18 </strong> <a href="/docs/ipose.pdf"> [Paper] </a> &nbsp; <sup>*</sup>equal contribution 
+    </td> 
+  </tr>
+</table>
 
-|[**Augmented Reality Meets Deep Learning for Car Instance Segmentation in Urban Scenes**](/docs/Alhaija2017BMVC.pdf)|
-| Hassan Abu Alhaija, **Siva Karthik M**, Lars Mescheder, Andreas Geiger, Carsten Rother |
-| **BMVC 17** [[paper](/docs/Alhaija2017BMVC.pdf)] |
+<table>
+  <tr>
+    <td width="25%">    <img src="/images/iccv.png" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs/iccv17.pdf"> 
+    <strong>Bounding Boxes, Segmentations and Object Coordinates: How Important is Recognition for 3D Scene Flow Estimation in Autonomous Driving Scenarios?</strong> </a> <br/> 
+    <strong>Siva Karthik M<sup>*</sup></strong>, Aseem Behl<sup>*</sup>, Omid Hosseini Jafari<sup>*</sup>, Hassan Abu Alhaija, Carsten Rother, Andreas Geiger<br/> 
+    <strong> ICCV 17 </strong> <a href="/docs/iccv17.pdf"> [Paper] </a> &nbsp; <sup>*</sup>equal contribution    
+    </td> 
+  </tr>
+</table>
 
-|[**Can Ground Truth Label Propagation from Video help Semantic Segmentation?**](/docs/siva_et_al_eccvw_2016.pdf)|
-| **Siva Karthik M**, Michael Yang, Carsten Rother |
-| Video Seg. Workshop, **ECCV 16** [[paper](/docs/siva_et_al_eccvw_2016.pdf)] |
+<table>
+  <tr>
+    <td width="25%">    <img src="/images/gis.png" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs/gis.pdf"> 
+    <strong> Geometric Image Synthesis </strong> </a> <br/> 
+    Hassan Abu Alhaija, <strong>Siva Karthik M</strong>, Andreas Geiger, Carsten Rother<br/> 
+    <strong> ACCV 18 </strong> <a href="/docs/gis.pdf"> [Paper] </a> <a href="https://drive.google.com/file/d/1A1GkR2xCdUb1ORHh7bEqxr8fRH0kM7Am/view"> [video] </a> &nbsp;
+    </td> 
+  </tr>
+</table>
+  
+<table>
+  <tr>
+    <td width="25%">    <img src="/images/ijcv.png" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs/AbuAlhaija2018_Article_AugmentedRealityMeetsComputerV.pdf"> 
+    <strong> Augmented Reality Meets Computer Vision : Efficient Data Generation for Urban Driving Scenes</strong> </a> <br/> 
+    Hassan Abu Alhaija, <strong>Siva Karthik M</strong>, Lars Mescheder, Andreas Geiger, Carsten Rother<br/> 
+    <strong> IJCV 18 </strong> <a href="/docs/AbuAlhaija2018_Article_AugmentedRealityMeetsComputerV.pdf"> [Paper] </a>    
+    </td> 
+  </tr>
+</table>
 
-| [**Markov Random Field based Small Obstacle Discovery over Images.**](/docs/Suryansh_etal_ICRA_14.pdf) |
-|  Suryansh Kumar<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, K Madhava Krishna  |
-|  **ICRA 14** [[paper]](/docs/Suryansh_etal_ICRA_14.pdf) [[video]](https://www.youtube.com/watch?v=WPZQbYSef78) &nbsp; <sup>*</sup>equal contribution|
+<table>
+  <tr>
+    <td width="25%">    <img src="/images/ijcv.png" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs/Alhaija2017BMVC.pdf"> 
+    <strong> Augmented Reality Meets Deep Learning for Car Instance Segmentation in Urban Scenes </strong> </a> <br/> 
+    Hassan Abu Alhaija, <strong>Siva Karthik M</strong>, Lars Mescheder, Andreas Geiger, Carsten Rother<br/> 
+    <strong> BMVC 17 </strong> <a href="/docs/Alhaija2017BMVC.pdf"> [Paper] </a>    
+    </td> 
+  </tr>
+</table>
 
-|[**Small Object Discovery and Recognition using Actively Guided Robots.**](/docs/Sudhanshu_etal_ICPR_14.pdf)|   
-|Sudhanshu Mittal<sup>*</sup>, **Siva Karthik M**<sup>*</sup>, Suryansh Kumar and K.Madhava Krishna  |
-|**ICPR 2014** [[paper]](/docs/Sudhanshu_etal_ICPR_14.pdf) &nbsp; <sup>*</sup>equal contribution| 
+<table>
+  <tr>
+    <td width="25%">    <img src="/images/eccvw.png" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs/siva_et_al_eccvw_2016.pdf"> 
+    <strong> Can Ground Truth Label Propagation from Video help Semantic Segmentation? </strong> </a> <br/> 
+    <strong>Siva Karthik M</strong>, Michael Yang, Carsten Rother<br/> 
+    Video Seg. Workshop,<strong> ECCV 16 </strong> <a href="/docs/siva_et_al_eccvw_2016.pdf"> [Paper] </a>    
+    </td> 
+  </tr>
+</table>
 
-|[**Guess from Far, Recognize when Near: Searching Floor for Small Objects.**](/docs/Siva_etal_ICVGIP_14.pdf)|
-|**Siva Karthik M**, Sudhanshu Mittal and K.Madhava Krishna |
-|**ICVGIP 2014**  [[paper]](/docs/Siva_etal_ICVGIP_14.pdf) [[video]](https://www.youtube.com/watch?v=4ZpH4LM7EO0)|
- 
-|[**Decision Theoretic Search for Small Objects through Integrating Far and Near Cues**](/docs/Siva_etal_ECMR_15.pdf) |
-|**Siva Karthik M**, Sudhanshu Mittal and K.Madhava Krishna  |
-|**ECMR 2015** [[paper]](/docs/Siva_etal_ECMR_15.pdf)|
+<table>
+  <tr>
+    <td width="25%">    <img src="/images/icra14.png" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs/Suryansh_etal_ICRA_14.pdf"> 
+    <strong> Markov Random Field based Small Obstacle Discovery over Images </strong> </a> <br/> 
+    <strong>Siva Karthik M<sup>*</sup></strong>, Suryansh Kumar<sup>*</sup>, K Madhava Krishna<br/> 
+    <strong> ICRA 14 </strong> <a href="/docs/Suryansh_etal_ICRA_14.pdf"> [Paper] </a> <sup>*</sup>equal contribution   
+    </td> 
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td width="25%">    <img src="/images/icvgip.png" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs//Siva_etal_ICVGIP_14.pdf"> 
+    <strong> Guess from Far, Recognize when Near: Searching Floor for Small Objects </strong> </a> <br/> 
+    <strong>Siva Karthik M</strong>, Sudhanshu Mittal, K Madhava Krishna<br/> 
+    <strong> ICVGIP 14 </strong> <a href="/docs//Siva_etal_ICVGIP_14.pdf"> [Paper] </a>  <a href="https://www.youtube.com/watch?v=4ZpH4LM7EO0"> [video] </a>   
+    </td> 
+  </tr>
+</table>
 
 <hr>
 
