@@ -6,7 +6,7 @@ title : Home
 
 I am a PhD student with [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) at [Visual Learning Lab (University of Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/) and co-advised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). My research is in the field of Computer Vision. 
 
-I focus on creating realistically data useful to train deep neural networks. I also worked on scene flow estimation, 6-D object pose estimation, etc. 
+I focus on creating realistic data useful to train deep neural networks. I also worked on scene flow estimation, 6-D object pose estimation, etc. 
 
 I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
 
