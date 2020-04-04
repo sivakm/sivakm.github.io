@@ -15,7 +15,7 @@ I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics
 <div align="center"><b>News</b></div>
 </font>
 
-* Our work on self-supervised viewpoint learning from image collections estimation is accepted CVPR 20  
+* Our work on self-supervised viewpoint learning from image collections is accepted at CVPR 20  
 * Interned at NVIDIA Research from May - November 2019
 * 2 papers accepted at ACCV 18, instance aware 6D object pose estimation [[pdf](/docs/ipose.pdf)] and geometry aware realistic image synthesis[[pdf](/docs/gis.pdf)]
 * Our work on exploring recognition granularities to improve object scene flow estimation is accepted at ICCV 17  [[pdf](/docs/iccv17.pdf)]
