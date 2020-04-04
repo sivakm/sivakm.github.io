@@ -57,7 +57,7 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
-  phone: +49-15217792435
+  phone: 
 
 include: [".htaccess"]
 keep_files: ['.htaccess']

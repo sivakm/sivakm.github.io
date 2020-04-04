@@ -34,9 +34,9 @@ I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madha
   <tr>
     <td width="25%">    <img src="/images/ssv_cvpr20.gif" align="left" width="200"/>    </td>
     <td width="70%">    <a href="/docs/ssv_cvpr20.pdf"> 
-    <strong> Self-Supervised Learning  </strong> </a> <br/> 
+    <strong>Self-Supervised Viewpoint Learning From Image Collections</strong> </a> <br/> 
     <strong>Siva Karthik M</strong>, Varun Jampani, Shalini De Mello, Sifei Liu, Umar Iqbal, Carsten Rother, Jan Kautz<br/> 
-    <strong> CVPR 20 </strong> <a href="/docs/ssv_cvpr20.pdf"> [Paper] </a> &nbsp;  
+    <strong> CVPR 20 </strong> <a href="/docs/ssv_cvpr20.pdf"> [Paper]</a> <a href="https://research.nvidia.com/publication/2020-03_Self-Supervised-Viewpoint-Learning"> [Project]</a> <a href="https://github.com/NVlabs/SSV"> [Code]</a> &nbsp;  
     </td> 
   </tr>
 </table>
