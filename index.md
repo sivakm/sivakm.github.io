@@ -29,7 +29,7 @@ I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics
 
 <table>
   <tr>
-    <td width="25%">    <img src="/images/ssv_cvpr20.gif" align="left" width="200"/> <a href="/images/ssv_cvpr20.gif">   </td>
+    <td width="25%">  <a href="/images/ssv_full.gif">  <img src="/images/ssv_cvpr20.gif" align="left" width="200"/>   </td>
     <td width="70%">    <a href="/docs/ssv_cvpr20.pdf"> 
     <strong>Self-Supervised Viewpoint Learning From Image Collections</strong> </a> <br/> 
     <strong>Siva Karthik M</strong>,  [Varun Jampani](https://varunjampani.github.io/), <a href="https://research.nvidia.com/person/shalini-gupta"> Shalini De Mello </a>, <a href="https://www.sifeiliu.net/"> Sifei Liu </a>, <a href="http://www.umariqbal.info/"> Umar Iqbal </a>, Carsten Rother, <a href="http://jankautz.com/"> Jan Kautz </a><br/> 
