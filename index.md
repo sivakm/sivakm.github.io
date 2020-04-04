@@ -4,8 +4,8 @@ title : Home
 ---
 
 
-I am a PhD student with [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) at [Visual Learning Lab (University of Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/) and co-advised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). My research is in the field of Computer Vision. <br/>
-I focus on developing algorithms and data for semi/self-supervised learning. <br/>
+I am a PhD student with [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) at [Visual Learning Lab (University of Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/) and co-advised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger).<br/>
+I focus on developing algorithms and data for semi/self-supervised learning of computer vision tasks.<br/>
 I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics.iiit.ac.in/) with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
 
 **Email :** siva.mustikovela@iwr.uni-heidelberg.de
@@ -29,10 +29,10 @@ I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics
 
 <table>
   <tr>
-    <td width="25%">    <img src="/images/ssv_cvpr20.gif" align="left" width="200"/>    </td>
+    <td width="25%">    <img src="/images/ssv_cvpr20.gif" align="left" width="200"/> <a href="/images/ssv_cvpr20.gif">   </td>
     <td width="70%">    <a href="/docs/ssv_cvpr20.pdf"> 
     <strong>Self-Supervised Viewpoint Learning From Image Collections</strong> </a> <br/> 
-    <strong>Siva Karthik M</strong>, <a href="https://varunjampani.github.io/"> Varun Jampani </a>, <a href="https://research.nvidia.com/person/shalini-gupta"> Shalini De Mello </a>, <a href="https://www.sifeiliu.net/"> Sifei Liu </a>, <a href="http://www.umariqbal.info/"> Umar Iqbal </a>, Carsten Rother, <a href="http://jankautz.com/"> Jan Kautz </a><br/> 
+    <strong>Siva Karthik M</strong>,  [Varun Jampani](https://varunjampani.github.io/), <a href="https://research.nvidia.com/person/shalini-gupta"> Shalini De Mello </a>, <a href="https://www.sifeiliu.net/"> Sifei Liu </a>, <a href="http://www.umariqbal.info/"> Umar Iqbal </a>, Carsten Rother, <a href="http://jankautz.com/"> Jan Kautz </a><br/> 
     <strong> CVPR 20 </strong> <a href="/docs/ssv_cvpr20.pdf"> [Paper]</a> <a href="https://research.nvidia.com/publication/2020-03_Self-Supervised-Viewpoint-Learning"> [Project]</a> <a href="https://github.com/NVlabs/SSV"> [Code]</a> &nbsp;  
     </td> 
   </tr>
