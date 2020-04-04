@@ -4,9 +4,9 @@ title : Home
 ---
 
 
-I am a PhD student with [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) at [Visual Learning Lab (University of Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/) and co-advised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). My research is in the field of Computer Vision. \
-I focus on developing algorithms and data for semi/self-supervised learning. \
-I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
+I am a PhD student with [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) at [Visual Learning Lab (University of Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/) and co-advised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). My research is in the field of Computer Vision. <br/>
+I focus on developing algorithms and data for semi/self-supervised learning. <br/>
+I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics.iiit.ac.in/) with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
 
 **Email :** siva.mustikovela@iwr.uni-heidelberg.de
 
