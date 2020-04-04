@@ -7,6 +7,17 @@ excerpt: "A List of Publications"
 
 <table>
   <tr>
+    <td width="25%">    <img src="/images/ssv_cvpr20.gif" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs/ssv_cvpr20.pdf"> 
+    <strong>Self-Supervised Viewpoint Learning From Image Collections</strong> </a> <br/> 
+    <strong>Siva Karthik M</strong>, <a href="https://varunjampani.github.io/"> Varun Jampani </a>, <a href="https://research.nvidia.com/person/shalini-gupta"> Shalini De Mello </a>, <a href="https://www.sifeiliu.net/"> Sifei Liu </a>, <a href="http://www.umariqbal.info/"> Umar Iqbal </a>, Carsten Rother, <a href="http://jankautz.com/"> Jan Kautz </a><br/> 
+    <strong> CVPR 20 </strong> <a href="/docs/ssv_cvpr20.pdf"> [Paper]</a> <a href="https://research.nvidia.com/publication/2020-03_Self-Supervised-Viewpoint-Learning"> [Project]</a> <a href="https://github.com/NVlabs/SSV"> [Code]</a> &nbsp;  
+    </td> 
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td width="25%">    <img src="/images/ipose.png" align="left" width="200"/>    </td>
     <td width="70%">    <a href="/docs/ipose.pdf"> 
     <strong> iPose: Instance-Aware 6D Pose Estimation of Partly Occluded Objects </strong> </a> <br/> 
