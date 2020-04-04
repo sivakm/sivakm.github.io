@@ -6,7 +6,9 @@ title : Home
 
 I am a PhD student with [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) at [Visual Learning Lab (University of Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/) and co-advised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). My research is in the field of Computer Vision. 
 
-I focus on creating realistically data useful to train deep neural networks. I also worked on scene flow estimation, 6-D object pose estimation, etc. 
+<!-- I focus on creating realistically data useful to train deep neural networks. I also worked on scene flow estimation, 6-D object pose estimation, etc.  -->
+I focus on developing algorithms and data for semi/self-supervised learning.
+
 
 I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
 
@@ -16,6 +18,8 @@ I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madha
 <div align="center"><b>News</b></div>
 </font>
 
+* Our work on self-supervised viewpoint learning from image collections estimation is accepted CVPR 20  
+* Interned at NVIDIA Research from May - November 2019
 * 2 papers accepted at ACCV 18, instance aware 6D object pose estimation [[pdf](/docs/ipose.pdf)] and geometry aware realistic image synthesis[[pdf](/docs/gis.pdf)]
 * Our work on exploring recognition granularities to improve object scene flow estimation is accepted at ICCV 17  [[pdf](/docs/iccv17.pdf)]
 * Our work on efficient data augmentation with synthetic objects to train CNNs is accepted in IJCV 18 [[pdf](https://arxiv.org/abs/1708.01566)]
@@ -25,6 +29,17 @@ I did my Master's at Robotics Research Center, IIIT-Hyderabad with Prof. K Madha
 <font size="4">
 <div align="center"><b>Publications</b></div> <br/>
 </font>
+
+<table>
+  <tr>
+    <td width="25%">    <img src="/images/ssv_cvpr20.gif" align="left" width="200"/>    </td>
+    <td width="70%">    <a href="/docs/ssv_cvpr20.pdf"> 
+    <strong> Self-Supervised Learning  </strong> </a> <br/> 
+    <strong>Siva Karthik M</strong>, Varun Jampani, Shalini De Mello, Sifei Liu, Umar Iqbal, Carsten Rother, Jan Kautz<br/> 
+    <strong> CVPR 20 </strong> <a href="/docs/ssv_cvpr20.pdf"> [Paper] </a> &nbsp;  
+    </td> 
+  </tr>
+</table>
 
 <table>
   <tr>
