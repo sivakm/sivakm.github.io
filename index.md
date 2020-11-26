@@ -40,7 +40,7 @@ I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics
 
 <table>
   <tr>
-    <td width="25%">  <a href="/images/intrinsic_3dv_20.gif"><img src="/images/intrinsic_3dv_20.gif" align="left" width="200"/></a>  </td>
+    <td width="25%">  <a href="/images/intrinsic_3dv_20_1.gif"><img src="/images/intrinsic_3dv_20.gif" align="left" width="200"/></a>  </td>
     <td width="70%">    <a href="/docs/intrinsic_3dv_20.pdf"> 
     <strong>Intrinsic Autoencoders for Joint Deferred Neural Rendering and Intrinsic Image Decomposition</strong> </a> <br/> 
     <strong>Siva Karthik M<sup>*</sup></strong>, <a>Hassan Abu Alhaija<sup>*</sup> </a>, <a href="https://varunjampani.github.io/">Varun Jampani</a>, <a>Justus Thies</a>, <a>Matthias Niessner</a>, <a>Andreas Geiger</a>, <a>Carsten Rother</a><br/> 
