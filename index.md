@@ -29,22 +29,22 @@ I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics
 
 <table>
   <tr>
-    <td width="25%">  <a href="/images/intrinsic_3dv_20.gif"><img src="/images/intrinsic_3dv_20.gif" align="left" width="200"/></a>  </td>
-    <td width="70%">    <a href="/docs/intrinsic_3dv_20.pdf"> 
-    <strong>Intrinsic Autoencoders for Joint Deferred Neural Rendering and Intrinsic Image Decomposition</strong> </a> <br/> 
-    <strong>Siva Karthik M<sup>*</sup></strong>,  <a>Hassan Abu Alhaija<sup>*</sup> </a>, <a href="https://varunjampani.github.io/">Varun Jampani </a>, <a>Justus Thies </a>, <a>Hassan Abu Alhaija </a><a>Matthias Niessner </a>, <a>Andreas Geiger </a>, <a>Carsten Rother</a><br/> 
-    <strong> 3DV 20 </strong> <a href="/docs/intrinsic_3dv_20.pdf"> [Paper]</a> <a href="/docs/intrinsic_3dv_20_p.pdf"> [Poster]</a> &nbsp; <sup>*</sup>equal contribution 
+    <td width="25%">  <a href="/images/ssv_full.gif"><img src="/images/ssv_small.gif" align="left" width="200"/></a>  </td>
+    <td width="70%">    <a href="/docs/ssv_cvpr20.pdf"> 
+    <strong>Self-Supervised Viewpoint Learning From Image Collections</strong> </a> <br/> 
+    <strong>Siva Karthik M</strong>,  <a href="https://varunjampani.github.io/">Varun Jampani </a>, <a href="https://research.nvidia.com/person/shalini-gupta"> Shalini De Mello </a>, <a href="https://www.sifeiliu.net/"> Sifei Liu </a>, <a href="http://www.umariqbal.info/"> Umar Iqbal </a>, Carsten Rother, <a href="http://jankautz.com/"> Jan Kautz </a><br/> 
+    <strong> CVPR 20 </strong> <a href="/docs/ssv_cvpr20.pdf"> [Paper]</a> <a href="https://research.nvidia.com/publication/2020-03_Self-Supervised-Viewpoint-Learning"> [Project]</a> <a href="https://github.com/NVlabs/SSV"> [Code]</a> &nbsp;  
     </td> 
   </tr>
 </table>
 
 <table>
   <tr>
-    <td width="25%">  <a href="/images/ssv_full.gif"><img src="/images/ssv_small.gif" align="left" width="200"/></a>  </td>
-    <td width="70%">    <a href="/docs/ssv_cvpr20.pdf"> 
-    <strong>Self-Supervised Viewpoint Learning From Image Collections</strong> </a> <br/> 
-    <strong>Siva Karthik M</strong>,  <a href="https://varunjampani.github.io/">Varun Jampani </a>, <a href="https://research.nvidia.com/person/shalini-gupta"> Shalini De Mello </a>, <a href="https://www.sifeiliu.net/"> Sifei Liu </a>, <a href="http://www.umariqbal.info/"> Umar Iqbal </a>, Carsten Rother, <a href="http://jankautz.com/"> Jan Kautz </a><br/> 
-    <strong> CVPR 20 </strong> <a href="/docs/ssv_cvpr20.pdf"> [Paper]</a> <a href="https://research.nvidia.com/publication/2020-03_Self-Supervised-Viewpoint-Learning"> [Project]</a> <a href="https://github.com/NVlabs/SSV"> [Code]</a> &nbsp;  
+    <td width="25%">  <a href="/images/intrinsic_3dv_20.gif"><img src="/images/intrinsic_3dv_20.gif" align="left" width="200"/></a>  </td>
+    <td width="70%">    <a href="/docs/intrinsic_3dv_20.pdf"> 
+    <strong>Intrinsic Autoencoders for Joint Deferred Neural Rendering and Intrinsic Image Decomposition</strong> </a> <br/> 
+    <strong>Siva Karthik M<sup>*</sup></strong>,  <a>Hassan Abu Alhaija<sup>*</sup> </a>, <a href="https://varunjampani.github.io/">Varun Jampani </a>, <a>Justus Thies </a>, <a>Matthias Niessner </a>, <a>Andreas Geiger </a>, <a>Carsten Rother</a><br/> 
+    <strong> 3DV 20 </strong> <a href="/docs/intrinsic_3dv_20.pdf"> [Paper]</a> <a href="/docs/intrinsic_3dv_20_p.pdf"> [Poster]</a> &nbsp; <sup>*</sup>equal contribution 
     </td> 
   </tr>
 </table>
