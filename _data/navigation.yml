@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /Publications
+  - title: "Resume"
+    url: /docs/cv_siva_mustikovela_jul_21.pdf
+  - title: "Contact"
+    url: /Contact
