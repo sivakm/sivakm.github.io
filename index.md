@@ -28,8 +28,8 @@ I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics
 <div align="center"><b>Publications</b></div>
 </font>
 
-<h1 style="font-size:1.15em">
-
+<!-- <h1 style="font-size:1.15em"> -->
+<p style="font-size:1.2em">
 <table>
   <tr>
     <td width="25%">  <a href="/images/comingsoon.jpg"><img src="/images/comingsoon.jpg" align="left" width="200"/></a>  </td>
@@ -167,7 +167,8 @@ I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics
 </table>
 <hr>
 
-</h1>
+<!-- </h1> -->
+</p>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
