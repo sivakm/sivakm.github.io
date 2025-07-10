@@ -19,6 +19,19 @@ My main focus during PhD was in developing algorithms and data for self-supervis
 <p style="font-size:1.2em">
 <table>
   <tr>
+    <td width="25%">  <a href="/images/vipllava_teaser.png"><img src="/images/vipllava_teaser.png" align="left" width="200"/></a>  </td>
+    <td width="70%">  <a href="https://arxiv.org/abs/2312.00784"> 
+    <strong>ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts</strong> </a>
+    <div style="line-height:30%;"><br></div>
+    Mu Cai, Haotian Liu, Dennis Park, Siva Karthik Mustikovela, Gregory P. Meyer, Yuning Chai, Yong Jae Lee
+    <div style="line-height:30%;"><br></div>      
+    <strong> CVPR 24 </strong> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_ViP-LLaVA_Making_Large_Multimodal_Models_Understand_Arbitrary_Visual_Prompts_CVPR_2024_paper.pdf"> [Paper]</a> &nbsp;  
+    </td> 
+  </tr>
+</table>
+  
+<table>
+  <tr>
     <td width="25%">  <a href="/images/ssod_teaser.png"><img src="/images/ssod_teaser.png" align="left" width="200"/></a>  </td>
     <td width="70%">  <a href="https://arxiv.org/abs/2110.09848"> 
     <strong>Self-Supervised Object Detection via Generative Image Synthesis</strong> </a>
