@@ -3,9 +3,9 @@ layout: archive
 author_profile: true
 ---
 
-I am a PhD student with [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) at [Visual Learning Lab (University of Heidelberg)](https://hci.iwr.uni-heidelberg.de/vislearn/) and co-advised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger).<br/>
-I focus on developing algorithms and data for self-supervised learning of computer vision tasks.<br/>
-I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics.iiit.ac.in/) with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
+I am a Senior Research Scientist at Cruise with a focus on and GenAI for sensor simulation and foundation models for autonomous driving. Before that I was Research Scientist at Algolux where I worked on synthetic data and depth estimation for long-range, adverse-weather driving scenarios. I completed my PhD in Computer Vision at Heidelberg University, Germany, supervised by [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) and and co-supervised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). During my PhD, I interned with Learning and Perception Group at NVIDIA twice. I did my Master's at [Robotics Research Center, IIIT-Hyderabad](https://robotics.iiit.ac.in/) with Prof. K Madhava Krishna, where I worked on object search in indoor environments.
+<br/>
+My main focus during PhD was in developing algorithms and data for self-supervised learning of computer vision tasks through generative image/video synthesis.<br/>
 
 **Email :** karthik.kovalam@gmail.com
 
