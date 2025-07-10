@@ -25,7 +25,7 @@ My main focus during PhD was in developing algorithms and data for self-supervis
     <div style="line-height:30%;"><br></div>
     <strong>Siva Karthik M</strong>,  Shalini De Mello, Aayush Prakash, Umar Iqbal, Sifei Liu, Thu Nguyen-Phuoc, Carsten Rother, Jan Kautz
     <div style="line-height:30%;"><br></div>      
-    <strong> ICCV 21 </strong> <a href="[/docs/ssv_cvpr20.pdf](https://arxiv.org/pdf/2110.09848)"> [Paper]</a> &nbsp;  
+    <strong> ICCV 21 </strong> <a href="https://arxiv.org/pdf/2110.09848"> [Paper]</a> &nbsp;  
     </td> 
   </tr>
 </table>
