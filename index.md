@@ -21,7 +21,7 @@ My main focus during PhD was in developing algorithms and data for self-supervis
   <tr>
     <td width="25%">  <a href="/images/ssod_teaser.png"><img src="/images/ssod_teaser.png" align="left" width="200"/></a>  </td>
     <td width="70%">  <a href="https://arxiv.org/abs/2110.09848"> 
-    <strong>Self-Supervised Object Detection via Generative Image Synthesis</strong> 
+    <strong>Self-Supervised Object Detection via Generative Image Synthesis</strong> </a>
     <div style="line-height:30%;"><br></div>
     <strong>Siva Karthik M</strong>,  Shalini De Mello, Aayush Prakash, Umar Iqbal, Sifei Liu, Thu Nguyen-Phuoc, Carsten Rother, Jan Kautz
     <div style="line-height:30%;"><br></div>      
