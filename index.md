@@ -3,26 +3,12 @@ layout: archive
 author_profile: true
 ---
 
-I am a Senior Research Scientist at Cruise with a focus on and GenAI for sensor simulation and foundation models for autonomous driving. Before that I was Research Scientist at Algolux where I worked on synthetic data and depth estimation for long-range, adverse-weather driving scenarios. <br/>
+I am a Senior Research Scientist at Cruise with a focus on GenAI for sensor simulation and foundation models for autonomous driving. Before that I was Research Scientist at Algolux where I worked on synthetic data and depth estimation for long-range, adverse-weather driving scenarios. <br/>
 I completed my PhD in Computer Vision at Heidelberg University, Germany, supervised by [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) and and co-supervised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). During my PhD, I interned with Learning and Perception Group at NVIDIA twice. 
 <br/>
 My main focus during PhD was in developing algorithms and data for self-supervised learning of computer vision tasks through generative image/video synthesis.<br/>
 
 **Email :** karthik.kovalam@gmail.com
-
-<hr/>
-<font size="4">
-<div align="center"><b>News</b></div>
-</font>
-
-* Our work on self-supervised object detection via generatve image synthesis is accepted at ICCV 21
-* Interned at NVIDIA Research from June 2020 - March 2021
-* Our paper on highly realistic controllable image synthesis and decomposition has been accepted at 3DV 2020
-* Our work on self-supervised viewpoint learning from image collections is accepted at CVPR 20  
-* Interned at NVIDIA Research from May - November 2019
-* 2 papers accepted at ACCV 18, instance aware 6D object pose estimation [[pdf](/docs/ipose.pdf)] and geometry aware realistic image synthesis[[pdf](/docs/gis.pdf)]
-* Our work on exploring recognition granularities to improve object scene flow estimation is accepted at ICCV 17  [[pdf](/docs/iccv17.pdf)]
-* Our work on efficient data augmentation with synthetic objects to train CNNs is accepted in IJCV 18 [[pdf](https://arxiv.org/abs/1708.01566)]
 
 <hr/>
 <font size="4">
