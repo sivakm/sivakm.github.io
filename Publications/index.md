@@ -5,7 +5,8 @@ excerpt: "A List of Publications"
 author_profile: true
 ---
 
-<h1 style="font-size:1.15em">
+<!-- <h1 style="font-size:1.15em"> -->
+<p style="font-size:1.2em">
 
 <table>
   <tr>
