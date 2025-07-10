@@ -9,13 +9,39 @@ author_profile: true
 
 <table>
   <tr>
-    <td width="25%">  <a href="/images/comingsoon.jpg"><img src="/images/comingsoon.jpg" align="left" width="200"/></a>  </td>
-    <td width="70%">
-    <strong>Self-Supervised Object Detection via Generative Image Synthesis</strong> 
+    <td width="25%">  <a href="/images/vlmad_teaser.png"><img src="/images/vlmad_teaser.png" align="left" width="200"/></a>  </td>
+    <td width="70%">  <a href="https://arxiv.org/abs/2412.14446"> 
+    <strong>VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision</strong> </a>
+    <div style="line-height:30%;"><br></div>
+    Yi Xu, Yuxin Hu, Zaiwei Zhang, Gregory P. Meyer, Siva Karthik Mustikovela, Siddhartha Srinivasa, Eric M. Wolff, Xin Huang
+    <div style="line-height:30%;"><br></div>      
+    <strong> Arxiv 24 </strong> <a href="https://arxiv.org/pdf/2412.14446"> [Paper]</a> &nbsp;  
+    </td> 
+  </tr>
+</table>
+  
+<table>
+  <tr>
+    <td width="25%">  <a href="/images/vipllava_teaser.png"><img src="/images/vipllava_teaser.png" align="left" width="200"/></a>  </td>
+    <td width="70%">  <a href="https://arxiv.org/abs/2312.00784"> 
+    <strong>ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts</strong> </a>
+    <div style="line-height:30%;"><br></div>
+    Mu Cai, Haotian Liu, Dennis Park, Siva Karthik Mustikovela, Gregory P. Meyer, Yuning Chai, Yong Jae Lee
+    <div style="line-height:30%;"><br></div>      
+    <strong> CVPR 24 </strong> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Cai_ViP-LLaVA_Making_Large_Multimodal_Models_Understand_Arbitrary_Visual_Prompts_CVPR_2024_paper.pdf"> [Paper]</a> &nbsp;  
+    </td> 
+  </tr>
+</table>
+  
+<table>
+  <tr>
+    <td width="25%">  <a href="/images/ssod_teaser.png"><img src="/images/ssod_teaser.png" align="left" width="200"/></a>  </td>
+    <td width="70%">  <a href="https://arxiv.org/abs/2110.09848"> 
+    <strong>Self-Supervised Object Detection via Generative Image Synthesis</strong> </a>
     <div style="line-height:30%;"><br></div>
     <strong>Siva Karthik M</strong>,  Shalini De Mello, Aayush Prakash, Umar Iqbal, Sifei Liu, Thu Nguyen-Phuoc, Carsten Rother, Jan Kautz
     <div style="line-height:30%;"><br></div>      
-    <strong> ICCV 21 </strong>  &nbsp;  
+    <strong> ICCV 21 </strong> <a href="https://arxiv.org/pdf/2110.09848"> [Paper]</a> &nbsp;  
     </td> 
   </tr>
 </table>
