@@ -24,7 +24,7 @@ plugins:
 author:
   name   : 
   avatar : "/images/icon2.jpg"
-  bio    : Research in computer vision, autonomous driving, self-supervised algorithms
+  bio    : Solving computer vision and autonomous driving problems through self-supervised algorithms using GenAI and foundation models.
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
