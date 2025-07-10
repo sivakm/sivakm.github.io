@@ -17,6 +17,20 @@ My main focus during PhD was in developing algorithms and data for self-supervis
 
 <!-- <h1 style="font-size:1.15em"> -->
 <p style="font-size:1.2em">
+
+<table>
+  <tr>
+    <td width="25%">  <a href="/images/vlmad_teaser.png"><img src="/images/vlmad_teaser.png" align="left" width="200"/></a>  </td>
+    <td width="70%">  <a href="https://arxiv.org/abs/2412.14446"> 
+    <strong>VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision</strong> </a>
+    <div style="line-height:30%;"><br></div>
+    Yi Xu, Yuxin Hu, Zaiwei Zhang, Gregory P. Meyer, Siva Karthik Mustikovela, Siddhartha Srinivasa, Eric M. Wolff, Xin Huang
+    <div style="line-height:30%;"><br></div>      
+    <strong> Arxiv 24 </strong> <a href="https://arxiv.org/pdf/2412.14446"> [Paper]</a> &nbsp;  
+    </td> 
+  </tr>
+</table>
+  
 <table>
   <tr>
     <td width="25%">  <a href="/images/vipllava_teaser.png"><img src="/images/vipllava_teaser.png" align="left" width="200"/></a>  </td>
