@@ -19,7 +19,7 @@ My main focus during PhD was in developing algorithms and data for self-supervis
 <p style="font-size:1.2em">
 <table>
   <tr>
-    <td width="25%">  <a href="/images/comingsoon.jpg"><img src="/images/comingsoon.jpg" align="left" width="200"/></a>  </td>
+    <td width="25%">  <a href="/images/ssod_teaser.png"><img src="/images/ssod_teaser.png" align="left" width="200"/></a>  </td>
     <td width="70%">
     <strong>Self-Supervised Object Detection via Generative Image Synthesis</strong> 
     <div style="line-height:30%;"><br></div>
