@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **E-Mail :**<br>
-karthik.kovalam@gmail.com
+karthik.kovalam@gmail.com <br>
 **LinkedIn :**<br>
 https://www.linkedin.com/in/msivak/
 
