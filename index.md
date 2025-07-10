@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 I am a Senior Research Scientist at Cruise with a focus on GenAI for sensor simulation and foundation models for autonomous driving. Before that I was Research Scientist at Algolux where I worked on synthetic data and depth estimation for long-range, adverse-weather driving scenarios. <br/>
-I completed my PhD in Computer Vision at Heidelberg University, Germany, supervised by [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) and and co-supervised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). During my PhD, I interned with Learning and Perception Group at NVIDIA twice. 
+I completed my PhD in Computer Vision at Heidelberg University, Germany, supervised by [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) and and co-supervised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). During my PhD, I interned with the Learning and Perception Group at NVIDIA twice, hosted by Shalini De Mello and Jan Kautz. 
 <br/>
 My main focus during PhD was in developing algorithms and data for self-supervised learning of computer vision tasks through generative image/video synthesis.<br/>
 
