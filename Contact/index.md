@@ -6,18 +6,7 @@ author_profile: true
 ---
 
 **E-Mail :**<br>
-siva.mustikovela@iwr.uni-heidelberg.de<br>
 karthik.kovalam@gmail.com
-
-<hr>
-
-**Address :** <br>
-Siva Karthik Mustikovela<br>
-Room: B03.117<br>
-Heidelberg Collaboratory for Image Processing (HCI)<br>
-Berliner Strasse 43<br>
-Heidelberg 69120<br>
-Germany
 
 <hr>
 
