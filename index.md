@@ -3,8 +3,9 @@ layout: archive
 author_profile: true
 ---
 
-I am an ML Researcher/Engineer at Zoox working at the intersection of Controllable World Models + Generative AI + Perception/Scene Understanding. 
-Previously, I was a Senior Research Scientist at Cruise with a focus on GenAI for sensor simulation and foundation models for autonomous driving ([Synthetic Data for Hardest Cases](https://engineering.gm.com/home.detail.html/Pages/news/us/en/engineering/2026/mar/0310-training-driver-ai.html)). Before that I was Research Scientist at Algolux where I worked on synthetic data and depth estimation for long-range, adverse-weather driving scenarios. <br/>
+I am an ML Researcher/Engineer at Zoox working at the intersection of Controllable World Models + Sensor Simulation + Generative AI + Perception/Scene Understanding. 
+
+Previously, I was a Senior Research Scientist at Cruise with a focus on GenAI and World Models for sensor simulation and foundation models for autonomous driving (See section "[Synthetic Data for Hardest Cases](https://engineering.gm.com/home.detail.html/Pages/news/us/en/engineering/2026/mar/0310-training-driver-ai.html)"). Before that I was Research Scientist at Algolux where I worked on synthetic data and depth estimation for long-range, adverse-weather driving scenarios. <br/>
 I completed my PhD in Computer Vision at Heidelberg University, Germany, supervised by [Prof. Carsten Rother](https://hci.iwr.uni-heidelberg.de/vislearn/people/carsten-rother/) and and co-supervised by [Prof. Andreas Geiger](https://avg.is.tuebingen.mpg.de/person/ageiger). During my PhD, I interned with the Learning and Perception Group at NVIDIA twice, hosted by Shalini De Mello and Jan Kautz. 
 <br/>
 My main focus during PhD was in leveraging generative image/video synthesis to develop algorithms and data for self-supervised learning of computer vision tasks.<br/>
